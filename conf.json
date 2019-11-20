@@ -1,0 +1,5 @@
+{
+    "image_dataset" :"101_ObjectCategories/car_side",
+    "image_annotations": "datasets/caltech101/Annotations/car_side",
+    "image_distractions": "sceneclass13"
+}
